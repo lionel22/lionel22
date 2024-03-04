@@ -2,7 +2,6 @@
 🔭 I’m currently working as a Software Developer in French, Lille<br>
 👯 I’m looking to collaborate on new projects with data processing<br>
 🌱 I’m currently learning data engineering & trying new things 
-🪂<br>💬 Ask me about stretching 🧘<br>⚡ Fun fact: I will soon be a dad 👼
 
 
 ## 🌐 Socials:
